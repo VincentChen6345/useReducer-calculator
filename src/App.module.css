@@ -1,0 +1,34 @@
+.App {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 5rem;
+}
+.container {
+  flex-direction: column;
+  display: flex;
+  width: 80vw;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  font-size: 5rem;
+  padding: 0 2rem;
+  text-align: center;
+  margin: 2rem;
+}
+.input {
+  line-height: 4rem;
+  text-align: center;
+}
+.label {
+  font-size: 4rem;
+}
+.sum {
+  font-size: 8rem;
+}
+.description {
+  font-size: 2rem;
+}

@@ -1,0 +1,5 @@
+Aim:
+
+- Create an addition/subtraction calculator using useReducer() hook
+- Allow user to adjust the quantity of increase/decrease with an input field
+- Use payload to transfer quantity to the dispatch function
